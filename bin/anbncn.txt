@@ -1,0 +1,7 @@
+abcXYZB
+q0;q1,X,R;-;-;-;q4,Y,R;-;q5,B,R
+q1;q1,a,R;q2,Y,R;-;-;q1,Y,R;-;-
+q2;-;q2,b,R;q3,Z,L;-;-;q2,Z,R;-
+q3;q3,a,L;q3,b,L;-;q0,X,R;q3,Y,L;q3,Z,L;-
+q4;-;-;-;-;q4,Y,R;q4,Z,R;q5,B,R
+q5;-;-;-;-;-;-;-

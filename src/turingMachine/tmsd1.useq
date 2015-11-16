@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.2" icons="true" automaticImage="JPEG">  
+  <object id="1" language="java" name="turingMachine.TM" project="TuringMachine" 
+    file="/TuringMachine/src/turingMachine/TM.java" binary="false" label="tm" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="81" y="0"/>    
+    <execution id="2">      
+      <position height="96" width="0" x="0" y="96"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="24" width="0" x="0" y="144"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="636" width="0" x="0" y="505"/>    
+    </execution>    
+    <execution id="9">      
+      <position height="24" width="0" x="0" y="586"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="168" width="0" x="0" y="355"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="24" width="7" x="44" y="403"/>    
+    </execution>  
+  </object>  
+  <object id="15" language="java" name="turingMachine.Machine" project="TuringMachine" 
+    file="/TuringMachine/src/turingMachine/Machine.java" binary="false" label="machine" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="12">      
+      <position height="120" width="0" x="0" y="379"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="588" width="0" x="0" y="529"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="516" width="0" x="0" y="577"/>    
+    </execution>    
+    <execution id="42">      
+      <position height="1140" width="0" x="0" y="1154"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="1068" width="0" x="0" y="1202"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="24" width="0" x="0" y="1358"/>    
+    </execution>    
+    <execution id="50">      
+      <position height="24" width="0" x="0" y="1418"/>    
+    </execution>    
+    <execution id="52">      
+      <position height="24" width="0" x="0" y="1478"/>    
+    </execution>    
+    <execution id="62">      
+      <position height="24" width="0" x="0" y="1826"/>    
+    </execution>    
+    <execution id="72">      
+      <position height="24" width="0" x="0" y="2222"/>    
+    </execution>  
+  </object>  
+  <object id="73" language="java" name="java.util.LinkedHashMap" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="60">      
+      <position height="24" width="0" x="0" y="1658"/>    
+    </execution>  
+  </object>  
+  <object id="74" language="java" name="java.io.BufferedReader" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" label="br" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="23">      
+      <position height="24" width="0" x="0" y="613"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="24" width="0" x="0" y="709"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="24" width="0" x="0" y="757"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="24" width="0" x="0" y="949"/>    
+    </execution>  
+  </object>  
+  <object id="75" language="java" name="java.io.FileReader" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="25">      
+      <position height="24" width="0" x="0" y="661"/>    
+    </execution>  
+  </object>  
+  <object id="76" language="java" name="java.util.LinkedHashMap" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" label="tf" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="31">      
+      <position height="24" width="0" x="0" y="805"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="24" width="0" x="0" y="853"/>    
+    </execution>  
+  </object>  
+  <object id="77" language="java" name="java.util.LinkedHashMap" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="41">      
+      <position height="24" width="0" x="0" y="1045"/>    
+    </execution>  
+  </object>  
+  <object id="78" language="java" name="turingMachine.Tape" project="TuringMachine" 
+    file="/TuringMachine/src/turingMachine/Tape.java" binary="false" label="t" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="17">      
+      <position height="24" width="0" x="0" y="403"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="24" width="0" x="0" y="1286"/>    
+    </execution>    
+    <execution id="56">      
+      <position height="24" width="0" x="0" y="1562"/>    
+    </execution>    
+    <execution id="58">      
+      <position height="24" width="0" x="0" y="1610"/>    
+    </execution>    
+    <execution id="64">      
+      <position height="24" width="0" x="0" y="1958"/>    
+    </execution>    
+    <execution id="66">      
+      <position height="24" width="0" x="0" y="2006"/>    
+    </execution>    
+    <execution id="68">      
+      <position height="24" width="0" x="0" y="2054"/>    
+    </execution>    
+    <execution id="70">      
+      <position height="24" width="0" x="0" y="2102"/>    
+    </execution>  
+  </object>  
+  <object id="79" language="java" name="java.util.Hashtable" project="TuringMachine" file="D:/Java/jre7/lib/rt.jar" 
+    binary="true" label="table" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="19">      
+      <position height="24" width="0" x="0" y="451"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="24" width="0" x="0" y="901"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="24" width="0" x="0" y="997"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="24" width="0" x="0" y="1514"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="menu():void">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="8" operation="getFile():java.lang.String">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="11" operation="Machine()">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="12"/>  
+  </message>  
+  <message id="13">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="16" operation="Tape()">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="Hashtable()">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20" operation="generateTF(java.lang.String):void">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="BufferedReader(java.io.Reader)">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="FileReader(java.lang.String)">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="readLine():java.lang.String">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="28" operation="readLine():java.lang.String">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="30" operation="LinkedHashMap()">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="32" operation="put(K,V):V">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="put(K,V):V">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="readLine():java.lang.String">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="38" operation="get(java.lang.Object):V">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="40" operation="values():java.util.Collection&lt;V&gt;">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="43" operation="run():void">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="45" operation="readFromKB(java.lang.String):void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="47" operation="makeSigma(java.lang.String[]):java.lang.String">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="49" operation="printProcess():void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="50"/>  
+  </message>  
+  <message id="51" operation="isFinal():boolean">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="53" operation="get(java.lang.Object):V">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="55" operation="charAt(int):char">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="56"/>  
+  </message>  
+  <message id="57" operation="getMachinePointer():int">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="59" operation="get(java.lang.Object):V">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="60"/>  
+  </message>  
+  <message id="61" operation="isFinal():boolean">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="62"/>  
+  </message>  
+  <message id="63" operation="assignAt(int,char):void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="64"/>  
+  </message>  
+  <message id="65" operation="getMachinePointer():int">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="66"/>  
+  </message>  
+  <message id="67" operation="moveRight():void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="69" operation="moveLeft():void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="70"/>  
+  </message>  
+  <message id="71" operation="printProcess():void">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="72"/>  
+  </message>
+</sequence-diagram>
